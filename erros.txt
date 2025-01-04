@@ -1,0 +1,15 @@
+Erro de redirecionamento ao cadastrar - ok
+
+Erro de duplicidade de chave ao cadastrar - ok
+
+Sublinhado dos botões -
+
+Informação do idioma selecionado - ok 
+
+Carrossel não está funcionando - ok
+
+Rankings não está aparecendo -
+
+Menu dos idiomas -
+
+Ajustar o layout do resultado da busca - ok 
